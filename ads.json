@@ -1,0 +1,28 @@
+{
+  "tr": [
+    {
+      "image": "https://dummyimage.com/728x90/000000/fff.gif&text=1+-+Bu+alana+reklam+verebilirsiniz",
+      "link": "https://google.com",
+      "duration": 5
+    },
+    {
+      "image": "https://dummyimage.com/728x90/000000/fff.gif&text=2+-+Bu+alana+reklam+verebilirsiniz",
+      "link": "",
+      "duration": 8
+    }
+  ],
+  "us": [
+    {
+      "image": "https://dummyimage.com/728x90/000000/fff.gif&text=US+-+You+can+place+an+advertisement+in+this+area",
+      "link": "https://yandex.com",
+      "duration": 6
+    }
+  ],
+  "default": [
+    {
+      "image": "https://dummyimage.com/728x90/000000/fff.gif&text=2+-+Bu+alana+reklam+verebilirsiniz",
+      "link": "",
+      "duration": 10
+    }
+  ]
+}
