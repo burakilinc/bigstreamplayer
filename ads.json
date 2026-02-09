@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "disabledCountries": ["us"],
+  "disabledCountries": [],
   "tr": [
     {"image": "https://dummyimage.com/728x90/000000/fff.gif&text=1+-+Bu+alana+reklam+verebilirsiniz", "link": "https://google.com", "duration": 5},
     {"image": "https://dummyimage.com/728x90/000000/fff.gif&text=2+-+Bu+alana+reklam+verebilirsiniz", "link": "", "duration": 8}
@@ -12,4 +12,5 @@
     {"image": "https://dummyimage.com/728x90/000000/fff.gif&text=2+-+Bu+alana+reklam+verebilirsiniz", "link": "", "duration": 10}
   ]
 }
+
 
